@@ -2,7 +2,7 @@ import contentful from 'contentful';
 import { json, error } from '@sveltejs/kit';
 
 export async function GET() {
-    if(!import.meta.env.VITE_CONTENTFUL_CLIENT_ACCESS_TOKEN) {
+    if(!import.meta.env.CONTENTFUL_ACCESS_TOKEN) {
         throw error(500, "Missing VITE_CONTENTFUL_CLIENT_ACCESS_TOKEN (added dependency in v2.0), go to https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#iii-add-a-blog for directions to add it");
     }
     const client = contentful.createClient({
