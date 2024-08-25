@@ -7,12 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><h3>Fingers on the handle, it's time to do The Courtesy Flush!</h3></p>
+<p>It is I, Commissioner Brandino, here to lead you through a sensational season of fantasy football. You will refer to me as Commissioner or Sir, and not in the condescending voice you use to depart from a conversation with festering swamp ass. I am your friend (not really) and your best resource (probably not) for the entire season. I can guide you, teach you, and answer any questions you may have. Think of me as Sarah Michelle Gellar to your Selma Blair (Google that). I also rule with a cold, merciless Judge Judian gavel. There will be no trade-raping or collusion under my purview. As always, if you have any questions, please submit them in writing and they will be reviewed at the millennial meeting on August 29th, 2119. Please don't form a union to ostracize me when you start Carson Wentz while he's nursing two sprained ankles from the same game or if you lose because you spent an extra minute on one more wipe before setting your lineup.</p>
+<p>As you will come to learn, my fantasy seasons involve cubic tons of trash talk that involving relevant pop culture and sporting tidbits. This year's theme has been dubbed "Ray Rice Couple's Therapy". Picture Ray Rice dragging the lifeless body of his lady friend like Forrest Gump dragging Lieutenant Dan through the Mekong delta — that scene is eerily similar to how I will be using and abusing each and every one of you throughout the season.</p>
+<p>Alright everyone, let's have a clean fight. Please continue to bite, swallow, fish hook, or punch below the belt and let's have a super season (for me)!</p>
 `;
 
 /*   STEP 3   */
